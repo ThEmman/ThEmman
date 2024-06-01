@@ -1,5 +1,5 @@
-<h2 align="center"> Hi 👋 , I'm Israt Jahan Khan <br/></h2> 
-<h3 align="center">Also known as "Ipty" to other people. <br> <br>
+<h2 align="center"> Hi 👋 , I'm Emmanuel Onah <br/></h2> 
+<h3 align="center">Also known as "Emma" to other people. <br> <br>
   <a href="https://github.com/IsratIJK" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/IsratIJK?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
@@ -7,8 +7,8 @@
     <img src="https://komarev.com/ghpvc/?username=IsratIJK&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
-                             
-                    
+
+<!--                                                 
 <details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
@@ -30,13 +30,13 @@
 
 </div>
 </details> 
- 
+--> 
 
  
-Let me introduce myself  :girl: 
+Let me introduce myself  👦 : 
 
-- 🔭 I’m currently working on [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature). Sometimes I try to work on some short personal projects of mine.
-- :art: <b>Hobby:</b> Attending in [CP](https://en.wikipedia.org/wiki/Competitive_programming#:~:text=The%20aim%20of%20competitive%20programming,mathematical%20or%20logical%20in%20nature), watching anime series, movies, English TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be :iphone: or :computer: related stuff although I keep decent knowledge regarding :computer:  
+- 🔭 I’m currently working on some short personal projects of mine.
+- 🎨 <b>Hobby: ⛹️‍♂️ Playing basketball, watching anime series, movies, British TV series and so on. I was a bookworm earlier even though I don't read that much nowadays. :disappointed: I love tech-related stuff whether it could be ☎️ primitive tech or 📱: futuristic related stuff although I keep decent knowledge regarding computers.
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
@@ -47,6 +47,10 @@ Let me introduce myself  :girl:
 
  Technologies and Languages 
 </h2>
+
+[![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Python](https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_python.png?raw=true)](https://www.python.org/)
+[![React](https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png)](https://facebook.github.io/react/)
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
